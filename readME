@@ -1,0 +1,35 @@
+GemCraft Zero Auto Mana Trainer
+
+A portable trainer for GemCraft Legacy Collection — Chapter Zero: Gem of Eternity on Windows x64.
+
+The program reads your current and maximum mana during gameplay. Press Start to automatically refill mana to 95% of the current maximum whenever it drops below 50%.
+
+Features
+
+Live display of current and maximum mana.
+
+Automatic mana refill — checked every 0.25 seconds.
+
+Start / Stop controls.
+
+10 interface languages with a flag selector.
+
+Standalone EXE — no Python installation or additional libraries required.
+
+How to use
+
+Launch Chapter Zero through GemCraft Legacy Collection and enter a map.
+
+Run the trainer.
+
+Press Find GemCraft,
+
+Press Connect and Read,
+
+Press Start to enable automatic mana refill.
+
+Press Stop to disable it.
+
+Version: 0.1.1
+Platform: Windows x64
+Created by Apcpc / Contact — Discord
